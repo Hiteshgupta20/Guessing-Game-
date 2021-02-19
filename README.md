@@ -11,4 +11,4 @@ Guess the Number is a short Java project that allows the user to guess the numbe
 - Java Swing
 - IDE: Eclipse
 
-### Build With Proper Coding No Drag And Drop
+### It is made with PROPER CODING and NO DRAG AND DROP
